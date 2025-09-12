@@ -1,0 +1,21 @@
+go west
+go south
+get cupcakes
+go north
+go east
+give Laurel the cupcakes
+go south
+get ring
+go north
+go north
+get necklace
+go up
+get hammer
+fix necklace
+wear necklace
+go down
+go west
+go west
+go out
+go east
+propose to Conrad
